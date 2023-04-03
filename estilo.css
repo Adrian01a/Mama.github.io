@@ -1,3 +1,7 @@
+body{
+    background-color: #8A2BE2;
+}
+
 .gifts {
     margin-top: 200px;
     display: flex;
